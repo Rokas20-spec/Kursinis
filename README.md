@@ -12,7 +12,7 @@
 
 ## 2. Analizė
 
-* **Programos atitikimas funkciniams reikalavimams:**
+* **Programa ir funkciniai reikalavimai:**
 
     * **Stack klasė:** Programa pavaizduoja `Stack` klasę, kuri atitinka (paskutinis įėjo, pirmas išėjo) duomenų struktūros principą. Ji turi metodus `push()` (prideda elementą į viršų), `pop()` (pašalina ir grąžina viršutinį elementą) ir `peek()` (grąžina viršutinį elementą jo nepašalindama).
 
