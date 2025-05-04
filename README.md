@@ -4,7 +4,7 @@
 
 ## 1. Įvadas
 
-* **Kursinio darbo tikslas:** Šio kursinio darbo tikslas buvo sukurti Python programą, kuri parodytų duomenų struktūrą (`Stack`) tema. Darbo metu taip pat buvo siekiama įgyvendinti visus keturis pagrindinius OOP principai: inkapsuliaciją, abstrakciją, paveldimumą ir polimorfizmą, bei pritaikyti kompozicijos ir agregacijos principus.
+* **Kursinio darbo tikslas:** Šio kursinio darbo tikslas buvo sukurti Python programą, kuri parodytų duomenų struktūrą (`Stack`) tema. Darbo metu taip pat buvo siekiama įgyvendinti visus keturis pagrindinius OOP principus: inkapsuliaciją, abstrakciją, paveldimumą ir polimorfizmą, bei pritaikyti kompozicijos ir agregacijos principus.
 * **Darbo tema:** Darbo tema yra krovinių sandėlio modeliavimas, kuriame naudojama LIFO (paskutinis įėjo, pirmas išėjo) principo duomenų struktūra. 
 * **Mano programa** Mano sukurta programa yra krovinių sandėlio modeliavimo programa. Ji leidžia vartotojui valdyti krovinių sandėlį, priimti naujus krovinius, išduoti juos ir peržiūrėti viršutinį krovinį. 
 * **Kaip paleisti programą?** Norint paleisti programą, reikia turėti įdiegtą Python 3, taip pat reikia išsaugoti pateiktą kodo failą (pvz., pavadinimu `sandėlys.py`). Ir tai atlikus paleisti programą.
