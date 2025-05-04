@@ -98,6 +98,8 @@
 * Sukurta programa sėkmingai pavaizduoja `Stack` duomenų struktūrą.
 * Buvo sėkmingai pademonstruoti visi keturi objektinio programavimo principai (inkapsuliacija, abstrakcija, paveldimumas ir polimorfizmas) per programos struktūrą ir veikimą.
 * Pritaikytas Dekoratoriaus dizaino šablonas leido praplėsti `Stack` klasės funkcionalumą nekeičiant pagrindinės klasės kodo.
-* **Išvados:** Šis darbas atliktas sėkmingai. Buvo sukurta krovinių sandėlio programa, kuri parodo svarbius objektinio programavimo principus. Programa yra geras pavyzdys, demonstruojantis duomenų struktūros kūrimą.
-* **Būsimos programos plėtros galimybės:** Programą galima tobulinti įvairiais būdais. Pavyzdžiui, pridėti sandėlio dydžio ribojimą, krovinių registravimą. Taip pat būtų patogu padaryti galimybę išsaugoti ir atidaryti sandėlio duomenis.
+  ## 4. Išvados
+ Šis darbas atliktas sėkmingai. Buvo sukurta krovinių sandėlio programa, kuri parodo svarbius objektinio programavimo principus. Programa yra geras pavyzdys, demonstruojantis duomenų struktūros kūrimą.
+## 5. Būsimos programos plėtros galimybės
+Programą galima tobulinti įvairiais būdais. Pavyzdžiui, pridėti sandėlio dydžio ribojimą, krovinių registravimą. Taip pat būtų patogu padaryti galimybę išsaugoti ir atidaryti sandėlio duomenis.
 
