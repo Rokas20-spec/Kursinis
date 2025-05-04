@@ -69,7 +69,7 @@
               # ... implementacija ...
           ```
 
-        * **Polimorfizmas:** Funkcija `apdoroti_sandėlio_objektą` gali priimti įvairių tipų sandėlio objektus (tiek paprastą `Stack`, tiek dekoruotus sandėlius) ir vienodai su jais veikti (pvz., `push`, `pop`), nes jie visi turi bendrą sąsają.
+        * **Polimorfizmas:** Funkcija `apdoroti_sandėlio_objektą` gali priimti įvairių tipų sandėlio objektusir vienodai su jais veikti (pvz., `push`, `pop`), nes jie visi turi bendrą sąsają.
 
           ```python
           class Krovinys: # Tik pavyzdys, jei naudojate Krovinio klasę
